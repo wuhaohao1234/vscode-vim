@@ -94,3 +94,10 @@ qa
 
 vsp filename
 
+:vsp本身文件
+
+:only 保留本身窗口，关闭其它窗口
+
+
+
+
